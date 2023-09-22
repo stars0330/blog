@@ -1,0 +1,39 @@
+HTML : Hyper Markup Language
+
+css : Cascading Style Sheets 
+HTML의 스타일 지정
+
+javascript
+컴파일러(소스코드를 기계어로 변환)
+인터프리터(바로 실행)
+컴파일러가 아닌 인터프리터를 쓰기 때문에 작성과 동시에 실행가능
+
+커멘드 라인 인터페이스(CLI : Commend Line Inteface) 
+node.js, npm, react, git
+
+에디터 
+JetBrains의 WebStorm 가장 인기으며 터미널포함, 하지만 유료
+Visual Studio Code 무료 거의모든 기능
+node.js npm, 웹팩, 바벨 등 설치 필요
+
+sublime Text 로 편집
+
+변수에 담을 수 있는 자료형, 데이터 타입
+숫자형 number type
+문자형 string type
+불형 boolean type
+객체 object
+
+typeof() : 변수의 자료형을 반환
+
+배열
+여러개의 변수를 저장
+인덱 index 주소로 접근 가능
+
+조건문
+if, switch
+조건에 따라 프로그램 분기
+
+반복문
+while, for, for in, do while
+
